@@ -13,7 +13,7 @@ I'm a second-year student at the Zapolyarny State University. I'm interested in 
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
-# 📱My contacts:
+# 📱 My contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Auriculchi)
 [![ВКонтакте](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]([https://vk.com/senpai2865](https://vk.com/auriculchi))
