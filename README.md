@@ -16,6 +16,6 @@ I'm a second-year student at the Zapolyarny State University. I'm interested in 
 # 📱 My contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Auriculchi)
-[![ВКонтакте](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]([https://vk.com/senpai2865](https://vk.com/auriculchi))
+[![ВКонтакте](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/auriculchi)
 [![Discord](https://img.shields.io/badge/discord-090909?style=for-the-badge&logo=discord)](https://discord.com/users/wisky_1789)
 
